@@ -103,11 +103,11 @@ const App = () => {
             backgroundColor: "rgba(0, 0, 0, 0.8)",
             color: "white",
             padding: "10px 20px",
-            fontSize: "200px",
+            fontSize: "150px",
             zIndex: 100,
           }}
         >
-          📌 메뉴
+          메뉴
         </div>
       )}
 
