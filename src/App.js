@@ -103,8 +103,7 @@ const App = () => {
             backgroundColor: "rgba(0, 0, 0, 0.8)",
             color: "white",
             padding: "10px 20px",
-            borderRadius: "10px",
-            fontSize: "20px",
+            fontSize: "200px",
             zIndex: 100,
           }}
         >
